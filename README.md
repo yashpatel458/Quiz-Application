@@ -20,7 +20,9 @@ user_name
 g_mail
 passwd
 
-## Created by:
+<img src="https://github.com/yashpatel458/Quiz-Application/blob/main/online-quiz-application-in-java-with-jdbc-using-swing-login-registration-timer-master/Screenshots/Signup.jpg">
 
-19DCS103 SMIT PATEL
-19DCS106 YASH PATEL
+<img src="https://github.com/yashpatel458/Quiz-Application/blob/main/online-quiz-application-in-java-with-jdbc-using-swing-login-registration-timer-master/Screenshots/Login.jpg ">
+<img src="https://github.com/yashpatel458/Quiz-Application/blob/main/online-quiz-application-in-java-with-jdbc-using-swing-login-registration-timer-master/Screenshots/Test.jpg ">
+<img src=" https://github.com/yashpatel458/Quiz-Application/blob/main/online-quiz-application-in-java-with-jdbc-using-swing-login-registration-timer-master/Screenshots/Results.jpg">
+<img src="https://github.com/yashpatel458/Quiz-Application/blob/main/online-quiz-application-in-java-with-jdbc-using-swing-login-registration-timer-master/Screenshots/Answers.jpg ">
