@@ -2,7 +2,7 @@
 # Description
 The Quiz System is an online application that facilitates the conduction of multiple-choice questions (MCQ) based examinations. It is a GUI-based application that enables students to sit at individual terminals and login to give the exam within a given duration. The system displays the result immediately after the completion of the exam and also stores user login data in the database.
 
-![Alt Text](https://media.giphy.com/media/M9fk9xXoSS3JI7Ozig/giphy.gif)
+![Alt Text](https://media.tenor.com/br6DfsR1-sYAAAAd/annie-and-lena-game-show-scandal.gif)
 
 ### Features:
 - User login with authentication
